@@ -2,7 +2,7 @@
 
 This project consists of generating an interactive Drums with vanilla Js
 
-![image](https://github.com/angelpolotorres/vanilla-web-components/blob/main/img/drums.png)
+![image](https://github.com/angelpolotorres/drums-js/blob/main/img/drums.png)
 
 ## How to start ⚙️
 
